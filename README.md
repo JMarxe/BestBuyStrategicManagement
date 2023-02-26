@@ -1,4 +1,4 @@
-<h1>Strategic Management Audit Report: Best Buy</h1>
+<h1>Best Buy Strategic Management Audit Report</h1>
 
 <h1>Internal Scanning Analysis:</h1>
 
