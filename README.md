@@ -1,9 +1,9 @@
 <h1>Strategic Management Audit Report:<br>
 Best Buy</h1>
 
-1. Internal Scanning Analysis:
+<h1>Internal Scanning Analysis:</h1>
 
-What are their Strengths?
+**What are their Strengths?**
 
 - Good reputation with customers and a proven ability to retain customer loyalty.
 
@@ -15,7 +15,7 @@ What are their Strengths?
 
 - A constant market of electronics consumers such as smartphones and video games.
 
-What are their Weaknesses?
+**What are their Weaknesses?**
 
 - Excessive reliance on physical stores when e-commerce is expanding at a rate of 15.4% yearly.
 
@@ -27,9 +27,9 @@ What are their Weaknesses?
 
 - Compared to internet merchants, operating costs are higher in physical storefronts.
 
-Externals Scanning Analysis:
+<h1>Externals Scanning Analysis:</h1>
 
-What are their Opportunities?
+**What are their Opportunities?**
 
 - There is an expanding market for electronics such as smartphones and video games.
 
@@ -47,7 +47,7 @@ What are their Opportunities?
 
 - The growing popularity of electronic media, especially video games and streaming videos, increases the demand for electronic devices.
 
-What are their Threats?
+**What are their Threats?**
 
 - Online media delivery services like Netflix, Amazon.com, Apple iTunes, and Google Play are taking over from physical retailers as the go-to places to buy entertainment goods like video games and movies.
 
@@ -61,7 +61,7 @@ What are their Threats?
 
 - Direct retail electronics sales to customers by companies like Apple and Samsung. With 77 million monthly visitors, Apple.com is currently the fourth most popular retail website in the United States.
 
-Strategy Formulation
+<h1>Strategy Formulation</h1>
 
 - Expanding into new product categories (Fitness & Wellness, Personal Electric Transportation, and Outdoor Living)
 
@@ -69,7 +69,7 @@ Strategy Formulation
 
 - Health Focusing: Health Products for the Consumer, Active Aging, and Virtual Care
 
-Strategy Implementation
+<h1>Strategy Implementation</h1>
 
 - Deepen our relationship with customers
 
@@ -77,7 +77,7 @@ Strategy Implementation
 
 - Remain one of the best places to work
 
-Evaluations:
+<h1>Evaluations:</h1>
 
 - Involving the top managers, key persons, and employees in operations efficiency programs
 
@@ -85,7 +85,7 @@ Evaluations:
 
 - Follow up on the plan of domestic operations related to the supplier.
 
-Recommendations:
+<h1>Recommendations:</h1>
 
 As mentioned in the potential thread, the Online retailers are a considered thread for Best Buy; that's why BestBuy should adopt a Hybrid Strategy to be able to sell online via their website as well as the physical store for the other type of clients; this strategy has been proven to work by Walmart as their sell products simultaneously by the physical stores and also in Walmart.com website.
 
