@@ -1,5 +1,9 @@
 <h1>Best Buy Strategic Management Audit Report</h1>
 
+<p align="center">
+<img src="https://securecdn.pymnts.com/wp-content/uploads/2021/11/best-buy-1-768x461.jpg" height="80%" width="80%"/>
+<br />
+
 <h1>Internal Scanning Analysis:</h1>
 
 **What are their Strengths?**
